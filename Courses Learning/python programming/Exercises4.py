@@ -1,6 +1,6 @@
 # -Exercises4.py *- coding: utf-8 -*-
 """
-@author: Bill
+@author: ZiMi
 """
 """
 LONG STRINGS
